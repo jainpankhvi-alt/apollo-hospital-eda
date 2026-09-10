@@ -140,6 +140,23 @@ Revenue analysis was performed **only on completed appointments**, as specified 
 Doctor information was analyzed after joining the doctor dimension table.
 
 ---
+## some of  charts pictures
+
+<img width="859" height="332" alt="appointment volume by booking channel" src="https://github.com/user-attachments/assets/16ca067e-6867-4b46-a11e-7e54ddace612" />
+
+<img width="851" height="331" alt="average consultation fees" src="https://github.com/user-attachments/assets/2306d3b5-13bf-4019-a976-ddefde2f08e9" />
+
+<img width="862" height="355" alt="average waiting time slot" src="https://github.com/user-attachments/assets/4b24a04c-4440-41b4-8833-356f158a0f9b" />
+
+<img width="855" height="346" alt="monthly appointment trend" src="https://github.com/user-attachments/assets/b6023d84-24c4-4a47-b74e-9b1ce5d14d6c" />
+
+<img width="857" height="351" alt="no show rate by booking lead time" src="https://github.com/user-attachments/assets/b95d89f4-9dd9-49e7-bca6-9b8f764f9d2e" />
+
+<img width="855" height="349" alt="no show rate" src="https://github.com/user-attachments/assets/6f37321e-1f94-4fae-a665-f594cd63c5ab" />
+
+<img width="854" height="349" alt="quarterly appointment" src="https://github.com/user-attachments/assets/9312db93-79e7-4abf-838d-be0a779869d3" />
+
+
 
 # Key Insights
 
